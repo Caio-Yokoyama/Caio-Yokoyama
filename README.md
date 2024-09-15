@@ -4,7 +4,6 @@
 - 🖥️ Atualmente sou estagiário de engenharia de softaware na OLX Brasil ! / Currently i'm a software engineering intern at OLX Brazil !
 - 🌱 Atualmente meu principal foco é ser um desenvolvedor Back-end / Currently my main focus is to be a Back-end Developer 
 - 📶 Estou cursando ciências da computação e estou no quinto semestre! / I'm studying computer science and I'm in the fifty semester!
-- 🤔 Também faço um curso para desenvolvedor FullStack / I also make a course of FullStack Developer
 
   
   <div style="display: inline_block"><br>
