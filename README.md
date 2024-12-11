@@ -3,7 +3,7 @@
 
 - 🖥️ Atualmente sou estagiário de engenharia de software na OLX Brasil ! / Currently i'm a software engineering intern at OLX Brazil !
 - 🌱 Hoje trabalho com diversas tecnologias como: Java, Python, Kotlin, MySQL e Docker / Today I work with several technologies such as: Java, Python, Kotlin, MySQL and Docker
-- 📶 Estou cursando ciências da computação e estou no quinto semestre! / I'm studying computer science and I'm in the fifty semester!
+- 📶 Sou formado em ciências da computação na universidade Anhembi Morumbi / I have a degree in Computer Science from Anhembi Morumbi University.
 
   
   <div style="display: inline_block"><br>
