@@ -1,8 +1,7 @@
 ## Olá, meu nome é Caio!👋
 
 
-- 🖥️ Atualmente sou estagiário de engenharia de software na OLX Brasil ! / Currently i'm a software engineering intern at OLX Brazil !
-- 🌱 Hoje trabalho com diversas tecnologias como: Java, Python, Kotlin, MySQL e Docker / Today I work with several technologies such as: Java, Python, Kotlin, MySQL and Docker
+- 🌱 Hoje trabalho com diversas tecnologias como: Java, Python, NodeJS, MySQL e Docker / Today I work with several technologies such as: Java, Python, Kotlin, MySQL and Docker
 - 📶 Sou formado em ciências da computação na universidade Anhembi Morumbi / I have a degree in Computer Science from Anhembi Morumbi University.
 
   
