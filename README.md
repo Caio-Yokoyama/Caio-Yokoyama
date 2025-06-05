@@ -13,6 +13,9 @@
 </div>
 <br>
 <p> Tambem sou formado na Universidade Anhembi Morumbi - UAM👨‍🎓</p>
-<br>
+
+### Github Stats📊
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Yokoyama)](https://github.com/anuraghazra/github-readme-stats)
+
    <a href="https://www.linkedin.com/in/caio-yokoyama-analfio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:yokcaio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
