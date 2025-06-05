@@ -1,7 +1,5 @@
 ## Olá, meu nome é Caio!👋
-<hr>
-
-## Sobre mim
+### Sobre mim
 <p> Sou desenvolvedor com 3 anos de experiência no mercado, focado no desenvolvimento desoluções escaláveis e de alta performance, com maior expertise nas linguagens abaixo:</p>
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
