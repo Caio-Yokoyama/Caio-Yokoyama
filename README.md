@@ -10,12 +10,12 @@
   <img align="center" alt="Caio-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Caio-Postgre" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Caio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-    <br>
+   
+
+    
   <p> Tambem sou formado na Universidade Anhembi Morumbi - UAM👨‍🎓</p>
 
 </div>
-
- <br>
 
  ### Conecte-se comigo!🌐
   <br>
