@@ -1,10 +1,8 @@
 ## Olá, meu nome é Caio!👋
+<hr>
 
-
-- 🌱 Hoje trabalho com diversas tecnologias como: Java, Python, NodeJS, MySQL e Docker / Today I work with several technologies such as: Java, Python, Kotlin, MySQL and Docker
-- 📶 Sou formado em ciências da computação na universidade Anhembi Morumbi / I have a degree in Computer Science from Anhembi Morumbi University.
-
-  
+## Sobre mim
+<p> Sou desenvolvedor com 3 anos de experiência no mercado, focado no desenvolvimento desoluções escaláveis e de alta performance, com maior expertise nas linguagens abaixo:</p>
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
@@ -14,10 +12,6 @@
   <img align="center" alt="Caio-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Caio-Postgre" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Caio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-          
-          
-  
-    
 </div>
  
   
